@@ -42,8 +42,6 @@ producer(ch);
 consumer(ch);
 ```
 
-This `README.md` file provides a comprehensive overview of how to use the `js-routine-concurrency` package, including installation, usage, and a detailed explanation of how the `WorkerPool` class works.
-
 ## License
 
 MIT License
